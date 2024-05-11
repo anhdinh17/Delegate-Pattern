@@ -13,6 +13,7 @@
 		67B106522BEFE5C9002A5F6A /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 67B106512BEFE5C9002A5F6A /* Base */; };
 		67B106542BEFE5CE002A5F6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67B106532BEFE5CE002A5F6A /* Assets.xcassets */; };
 		67B106572BEFE5CE002A5F6A /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 67B106562BEFE5CE002A5F6A /* Base */; };
+		67B1065F2BEFE6E8002A5F6A /* ActionButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B1065E2BEFE6E8002A5F6A /* ActionButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		67B106532BEFE5CE002A5F6A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		67B106562BEFE5CE002A5F6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		67B106582BEFE5CE002A5F6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		67B1065E2BEFE6E8002A5F6A /* ActionButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				67B1064A2BEFE5C9002A5F6A /* AppDelegate.swift */,
 				67B1064C2BEFE5C9002A5F6A /* SceneDelegate.swift */,
 				67B1064E2BEFE5C9002A5F6A /* ViewController.swift */,
+				67B1065E2BEFE6E8002A5F6A /* ActionButtonView.swift */,
 				67B106502BEFE5C9002A5F6A /* Main.storyboard */,
 				67B106532BEFE5CE002A5F6A /* Assets.xcassets */,
 				67B106552BEFE5CE002A5F6A /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				67B1064F2BEFE5C9002A5F6A /* ViewController.swift in Sources */,
 				67B1064B2BEFE5C9002A5F6A /* AppDelegate.swift in Sources */,
+				67B1065F2BEFE6E8002A5F6A /* ActionButtonView.swift in Sources */,
 				67B1064D2BEFE5C9002A5F6A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
